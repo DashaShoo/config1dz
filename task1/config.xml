@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <Settings>
+        <computer_name>test_user</computer_name>
+        <fs_zip>virtual_fs_test.zip</fs_zip>
+        <log_file>test_log.csv</log_file>
+        <startup_script>startup_commands.txt</startup_script>
+    </Settings>
+</configuration>
